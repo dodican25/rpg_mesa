@@ -31,4 +31,29 @@ public class Personagem {
         nivel++;
         System.out.println(nome + " subiu para o nível " + nivel + "!");
     }
+    
+    // Métodos para obter informações do personagem
+    public String getNome() {
+        return nome;
+    }
+
+    public String getClasse() {
+        return classe;
+    }
+
+    public int getHp() {
+        return hp;
+    }
+
+    public int getMana() {
+        return mana;
+    }
+
+    public int getNivel() {
+        return nivel;
+    }
+
+    public String getHabilidades() {
+        return habilidades;
+    }
 }
