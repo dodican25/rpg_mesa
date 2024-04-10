@@ -17,7 +17,4 @@ O jogo seria baseado em texto, com opções apresentadas aos jogadores, Os jogad
 - Dados e Aleatoriedade:
 Dados seriam usados para determinar resultados aleatórios, por exemplo, rolagem de ataque, sucesso em uma ação.
 
-- Interface Gráfica:
-A idéia é criar uma interface gráfica usando JFrame para tornar o jogo mais visual, Botões, caixas de texto e painéis seriam usados para interagir com o jogador.
-
 > Esse projeto tende a chegar mais próximo desses pontos informados a cima.
