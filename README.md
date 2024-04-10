@@ -1,6 +1,6 @@
-## RPG de Mesa v0.01 ~~ dodican25
+## RPG de Mesa v0.01 ~~ Lucas
 
-O intuito do projeto é destinado a um RPG de mesa, um jogo de interpretação em que os jogadores assumem o papel de personagens em um mundo fictício, tudo isso se fosse implementado em linguaguem de programação Java.
+O intuito do projeto é destinado a um RPG de mesa, um jogo de interpretação em que os jogadores assumem o papel de personagens em um mundo fictício, tudo isso se fosse implementado em linguagem de programação Java.
 
 ## Estrutura do que busco implementar nesse projeto:
 
